@@ -1,5 +1,7 @@
+// needs code cleaning. work in progress...//
+
 # COMPETITION-4-DREEM
-DREEM COMPETITION. (22th) Sleeping apneas detection based on physiological signals. Building a CNN // work in progress...//
+DREEM COMPETITION. (22th) Sleeping apneas detection based on physiological signals. Building a CNN 
 
 
 HOW TO USE THIS?
